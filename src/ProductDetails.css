@@ -1,0 +1,23 @@
+.ProductDetails{
+  margin-top:48px;
+  width:49%;
+  margin-left:5px;
+  padding-left:8px;
+  display:inline-block;
+  text-align:center;
+  position:relative;
+}
+.ColorOptions img{
+  width:70px;
+  height:70px;
+  border:1px solid rgb(0,0,0,0.2);
+  border-radius:2px;
+  margin:10px 10px;
+}
+.selectedColor{
+	width:70px;
+	height:70px;
+	border:1px solid #99FF00;
+	border-radius:2px;
+	margin:10px 10px;
+}
